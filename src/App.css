@@ -1,0 +1,13 @@
+@font-face {
+  font-family: rezvan;
+  src: url(./Rezvan/Rezvan.ttf);
+}
+
+body {
+  font-family: rezvan;
+  direction: rtl;
+}
+
+* {
+  margin: 0;
+}
